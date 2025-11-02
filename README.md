@@ -1,6 +1,5 @@
 ## I'm omcljsom 🙃
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/toshimaru/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/toshimaru_e)
 
 ### 📝 Blog
